@@ -33,7 +33,7 @@ Compose your API, run, deploy, profile, and monitor it with Arc:
 
 slc arc
 
-Run the app:
+Run the app (use 'node .' for development mode, use 'slc start' when ready for deployment):
 
 node .
 
