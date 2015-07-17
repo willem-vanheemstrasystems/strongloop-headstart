@@ -67,7 +67,9 @@ ___
 
 StrongLoop Studio
 
-StrongLoop Studio is used to visually create datasources and models.
+StrongLoop Studio is used to 
+- API Composer: visually create datasources and models.
+- Profiler: Profile applications'CPU and memory consumption.
 
 Install StrongLoop Studio by typing at the root of the application folder (e.g. loopback-getting-started):
 
@@ -80,6 +82,8 @@ Run StrongLoop Studio as follows:
 strong-studio
 
 It will open the browser and show the web page that is the StrongLoop Studio.
+
+Your studio is running here: http://localhost:52565/#studio   (the portnumber is different per session)
 
 
 
