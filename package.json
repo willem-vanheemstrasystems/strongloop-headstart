@@ -48,10 +48,10 @@
 	    "grunt-cli": ">=0.1.11",
 	    "ejs": "*",
 	    "mime": "^1.3.4",
-	    "tacit-server": "^1.0.8007",
-		"strongloop": "^4.0.5"		
+	    "tacit-server": "^1.0.8007"		
 	},
 	"scripts": {
+		"preinstall": "sudo npm install -g strongloop",		
 		"start": "node servers/server",    
 		"test": "make test"
 	},
